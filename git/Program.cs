@@ -10,7 +10,8 @@ namespace git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+
+            float liczba = 10;
         }
     }
 }
